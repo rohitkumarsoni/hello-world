@@ -1,2 +1,7 @@
-# hello-world
-hello world program in java to print.
+class hello_world
+{
+   public static void main (String[] args)
+    {
+      printf("Hello world");
+    }
+ }
